@@ -1,0 +1,3 @@
+123456:Samsung Galaxy s10:20
+576884:WacomPen:9
+569483:C Programming Book:5
